@@ -1,0 +1,51 @@
+[
+	{
+		"Student_ID" : 4408100,
+		"Name" : "Cheol-Soo Kim",
+		"Course_Name" : "C Language",
+		"Professor" : "A Mu-Gae",
+		"Grade" : "B"
+	},
+	{
+		"Student_ID" : 4407153,
+		"Name" : "In-Kyu Lee",
+		"Course_Name" : "C Language",
+		"Professor" : "A Mu-Gae",
+		"Grade" : "A"
+	},
+	{
+		"Student_ID" : 4408100,
+		"Name" : "Cheol-Soo Kim",
+		"Course_Name" : "Database",
+		"Professor" : "Hong Gil-Dong",
+		"Grade" : "B"
+	},
+	{
+		"Student_ID" : 4407155,
+		"Name" : "Dong-Soo Kim",
+		"Course_Name" : "Database",
+		"Professor" : "Hong Gil-Dong",
+		"Grade" : "B"
+	},
+	{
+		"Student_ID" : 4407153,
+		"Name" : "In-Kyu Lee",
+		"Course_Name" : "Database",
+		"Professor" : "Hong Gil-Dong",
+		"Grade" : "A"
+	},
+	{
+		"Student_ID" : 4408100,
+		"Name" : "Cheol-Soo Kim",
+		"Course_Name" : "JavaScript",
+		"Professor" : "Chun Jae",
+		"Grade" : "B"
+	},
+	{
+		"Student_ID" : 4407155,
+		"Name" : "Dong-Soo Kim",
+		"Course_Name" : "JavaScript",
+		"Professor" : "Chun Jae",
+		"Grade" : "C"
+	}
+]
