@@ -1,2 +1,4 @@
-
 .codegpt
+.idea/
+out/
+*.class
